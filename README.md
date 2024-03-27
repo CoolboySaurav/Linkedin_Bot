@@ -29,7 +29,7 @@ Run the script using the following command:
 python linkedin_bot.py
 
 The script will prompt you to enter the search query and the number of pages to scrape. It will then navigate through the search results, extract the recruiter profile URLs, and store them in a text file.
-
+```
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
